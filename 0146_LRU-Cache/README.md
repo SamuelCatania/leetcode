@@ -37,6 +37,6 @@ lRUCache.get(4);    // return 4
 **Constraints:**
 
 - `1 <= capacity <= 3000`
-- `0 <= key <= 104`
-- `0 <= value <= 105`
-- At most $2 * 10^5$ calls will be made to `get` and `put`.
+- <tt>0 <= key <= 10<sup>4</sup></tt>
+- <tt>0 <= value <= 10<sup>5</sup></tt>
+- At most <tt>2 * 10<sup>5</sup></tt> calls will be made to `get` and `put`.
