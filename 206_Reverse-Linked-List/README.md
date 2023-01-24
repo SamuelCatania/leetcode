@@ -13,7 +13,7 @@ Given the `head` of a singly linked list, reverse the list, and return *the reve
 </pre>
 
 
-Example 2:
+**Example 2:**
 
 ![](https://assets.leetcode.com/uploads/2021/02/19/rev1ex2.jpg)
 
@@ -23,7 +23,7 @@ Example 2:
 </pre>
 
 
-Example 3:
+**Example 3:**
 
 <pre>
 <b>Input:</b> head = []
