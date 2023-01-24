@@ -40,8 +40,8 @@ There is a cycle in a linked list if there is some node in the list that can be 
 
 **Constraints:**
 
-- The number of the nodes in the list is in the range `[0, 10^4]`.
-- `-105 <= Node.val <= 105`
+- The number of the nodes in the list is in the range <tt>[0, 10<sup>4</sup>]</tt>.
+- <tt>-10<sup>5</sup> <= Node.val <= 10<sup>5</sup></tt>
 - `pos` is `-1` or a **valid index** in the linked-list.
  
 
